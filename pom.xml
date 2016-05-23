@@ -176,6 +176,13 @@
 			<artifactId>json</artifactId>
 			<version>20140107</version>
 		</dependency>
+		
+		<!-- CSV parsing -->
+		<dependency>
+			<groupId>com.opencsv</groupId>
+			<artifactId>opencsv</artifactId>
+			<version>3.7</version>
+		</dependency>
 
 
 		<!-- connector mysql -->
